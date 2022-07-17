@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+I am currently working as IT Team Lead with Electronics for Imaging (EFI), Bangalore
+I have equipped myself conceptually and practically towards achieving the above-mentioned objective and I am on the lookout for an opportunity to apply myself, where I can apply my knowledge, acquire new skills and contribute constructively to the organization
+I have a strong experience on Atlassian tools administration and support both on Linux and Windows platform. Hands on experience on Data migration, Application Upgrade, Application Refresh and Integration with other applications.
+
+I am currently learing Python, HTML, CSS, ML
